@@ -15,4 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-My Skills: https://drive.google.com/file/d/12IukJDpgvoZEuZ3LoRQ_06ofcrLRp5x0/view?usp=sharing
+My Skills: https://ra-naun.github.io/my-skills/
