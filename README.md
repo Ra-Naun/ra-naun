@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-⚡  My Skills: https://ra-naun.github.io/my-skills/
+# ⚡  My Skills: https://ra-naun.github.io/my-skills/
 (масштаб: Ctrl + scroll)
 
 
