@@ -25,3 +25,4 @@ Here are some ideas to get you started:
 * temp - template - заготовки, шаблоны
 * pr - practice - тут я просто тренируюсь кодить
 * dm - demonstration - тут небольшие завершенные проекты, в основном удачный just for fun code
+#
