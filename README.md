@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 ## ⚡  My Skills: https://ra-naun.github.io/my-skills/
-#### (масштаб: Ctrl + scroll)
+* (масштаб: Ctrl + scroll)
 
 
 ### 📫 Приставки к репозиториям:
